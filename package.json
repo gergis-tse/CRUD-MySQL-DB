@@ -9,8 +9,8 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.2",
-    "mysql2": "^3.1.2"
+    "express": "^4.21.0",
+    "mysql2": "^3.11.3"
   },
   "keywords": [],
   "description": ""

@@ -20,7 +20,7 @@ const connection = mysql.createConnection({
 	user: "crudDB",
 	password: "crudDB",
 	database: "crudb",
-	socketPath: "/Applications/MAMP/tmp/mysql/mysql.sock", //path to mysql sock in MAMP
+	// socketPath: "/Applications/MAMP/tmp/mysql/mysql.sock", //path to mysql sock in MAMP
 });
 
 // Connect to MySQL
